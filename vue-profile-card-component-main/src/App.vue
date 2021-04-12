@@ -32,4 +32,5 @@ div#content {
   background-position: -500px -500px, 800px 500px;
   background-repeat: no-repeat, no-repeat;
 }
+
 </style>
